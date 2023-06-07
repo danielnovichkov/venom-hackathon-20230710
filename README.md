@@ -7,7 +7,7 @@ TrustEstate is a new identity service set to transform the real estate market in
 - The Identix.Pass custodial SSI wallet app: https://pass.identx.space/
 - Real Estate Portal (simulation): https://re.identix.space
 
-
+TrustEstate Venom Hackathon Presentation https://www.youtube.com/watch?v=4qx96uNttxc
 ## Introduction
 
 TrustEstate uses SSI technologies backed by Venom blockchain to establish
