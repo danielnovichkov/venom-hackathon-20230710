@@ -7,6 +7,7 @@ TrustEstate is a new identity service set to transform the real estate market in
 - The Identix.Pass custodial SSI wallet app: https://pass.identx.space/
 - Real Estate Portal (simulation): https://re.identix.space
 
+Presentation of TrustEstate [https://docs.google.com/presentation](https://docs.google.com/presentation/d/1DQp0VAG6-H-SrYaGiYDLDtcKonmh-U2VjtpHFtZYxQA/edit?usp=sharing)
 
 ## Introduction
 
